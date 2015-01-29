@@ -18,8 +18,11 @@ enter:
 
   gcc -o sweeper sweeper.c -lSDL -lrt -lm -L/usr/local/lib -lwiringPi
 
-The images folder has a picture of the bot, but you can always modify it or the
-code to suit your needs (in accordance with CC 3.0). 
+Images of the bot can be found here:
+
+  https://plus.google.com/photos/112321570613330986901/albums/6109871844300485905
+
+It's relatively simple. You can always modify it or the code to suit your needs. 
 
 Have fun!
 
